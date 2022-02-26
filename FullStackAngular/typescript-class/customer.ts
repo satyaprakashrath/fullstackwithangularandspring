@@ -1,8 +1,8 @@
 class Customer {
-    firstName: string;
-    lastName : string;
+    private firstName: string;
+    private lastName : string;
 
-    constructor(firstName, lastName){
+    constructor(firstName : string, lastName : string){
         this.firstName = firstName;
         this.lastName = lastName;
     }
