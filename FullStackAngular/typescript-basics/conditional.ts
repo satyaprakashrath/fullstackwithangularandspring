@@ -7,3 +7,4 @@ for(let sport of sports){
         console.log(sport);
     }
 }
+
