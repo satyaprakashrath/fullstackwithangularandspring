@@ -1,6 +1,6 @@
-let sports : string[] = ["golf", "cricket","swimming", "football","baseball"];
+let sports1 : string[] = ["golf", "cricket","swimming", "football","baseball"];
 
-for(let sport of sports){
+for(let sport of sports1){
     if(sport == "cricket"){
         console.log(sport + " << My Favorite!");
     }else{
