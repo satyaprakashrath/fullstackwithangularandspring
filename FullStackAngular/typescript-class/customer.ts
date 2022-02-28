@@ -1,4 +1,4 @@
-class Customer {
+export class Customer {
     //Convention to start private property name with underscore(_)
     /*private _firstName: string;
     private _lastName : string;
@@ -27,7 +27,3 @@ class Customer {
         this._lastName = lastName;
     }
 }
-
-let myCustomer = new Customer("Satya", "Rath");
-myCustomer.firstName="Hitarth"
-console.log(myCustomer.firstName)
