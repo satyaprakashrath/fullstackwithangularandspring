@@ -45,7 +45,7 @@ button{
 
 img{
   max-width:100%;
-  height:auto
+  height: auto
 }
 
 p{
@@ -743,7 +743,8 @@ a.primary-btn{
   color:#fff;
   border-radius:2px;
   font-size:14px;
-  margin-top:5px
+  margin-top:5px;
+  text-decoration:unset;
 }
 a.primary-btn:hover{
   background:#0da8e4;
