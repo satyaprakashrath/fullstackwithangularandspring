@@ -14,8 +14,8 @@
 	-------------------
 2. Search for products by category
 
-	1. Define Routes
-	2. Configure router based on defined routes
+	1. Define Routes - Done
+	2. Configure router based on defined routes - Done
 	3. Define the Router Outlet
 	4. Setup RouterLinks to pass category id param
 	5. Enhance ProductListComponent to read id parama
